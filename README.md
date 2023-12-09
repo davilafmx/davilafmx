@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jose Davila
-- 🇲🇽 I am from San Luis Potosi, Mexico
+- :mexico: I am from San Luis Potosi, Mexico
 - 👀 I’m interested in motocrycles, anime and gaming!
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on projects to learn more
